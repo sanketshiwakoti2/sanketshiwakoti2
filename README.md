@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I’m a Bachelor of Computer Applications (BCA) student at Mechi Multiple Campus, driven by a deep interest in web development and real-world applications. As a Laravel developer, I’ve gained hands-on experience working on diverse projects, primarily for a company where I contribute to developing efficient and creative solutions.
+I’m a Bachelor of Computer Applications (BCA) student at Mechi Multiple Campus, driven by a deep interest in web development and real-world applications. As a Laravel developer, I’ve gained hands-on experience working on diverse projects, primarily for Astral Techsoft where I contribute to developing efficient and creative solutions.
 
 ### 💼 Skills & Technologies
 - **Frontend**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
